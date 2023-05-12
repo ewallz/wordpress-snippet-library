@@ -1,1 +1,1 @@
-# wordpress-snippet-library
+# My Collection of usefull Wordpress & Woocommerce Snippets
